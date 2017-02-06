@@ -17,7 +17,7 @@
         android:text="Imageslider" />
 
     <Button
-        android:text="Change Image"
+        android:text="Change Image1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/btnchanger"
