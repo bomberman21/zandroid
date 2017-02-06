@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity
 
             protected void onPause() {
                 MainActivity.super.onPause();
-                Log.d("android", "The onPause() event");
+                Log.d("android", "The onPause()event");
             }
 
         });
